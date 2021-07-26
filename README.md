@@ -30,9 +30,7 @@ The dataset contains 1,000,000 playlists, including playlist titles and track ti
 * In average, each playlist is around 3 hours, and has 50 songs from 30 artists.
 * The most popular track is “HUMBLE”, the most popular playlist is “TOP POP”, and the most popular album is “Stoney”.
 
-![Image](pic/eda_tracks.png)
-![Image](pic/eda_playlists.png)
-![Image](pic/eda_albums.png)
+![Image](pic/eda.png)
 
 ## Modeling (Cosine Similarity and Matrix Factorization)
 
